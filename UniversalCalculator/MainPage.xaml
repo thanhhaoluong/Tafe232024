@@ -42,7 +42,7 @@
 		<control:OperatorButtonControl Grid.Row="4" Grid.Column="3" Value="-" />
 		<control:OperatorButtonControl Grid.Row="5" Grid.Column="3" Value="+" />
 
-		<control:NumberButtonControl Grid.Row="2" Grid.Column="0" Value="7" x:Name="button7" />
+		<control:NumberButtonControl Grid.Row="2" Grid.Column="0" Value="7" x:Name="button77" />
 		<control:NumberButtonControl Grid.Row="2" Grid.Column="1" Value="8" x:Name="button8" />
 		<control:NumberButtonControl Grid.Row="2" Grid.Column="2" Value="9" x:Name="button9" />
 		<control:NumberButtonControl Grid.Row="3" Grid.Column="0" Value="4" x:Name="button4" />
